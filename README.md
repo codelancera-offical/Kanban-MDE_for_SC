@@ -9,3 +9,9 @@ This is the Kanban of research: Monoclar Depth Estimation for Spiking Camera. Th
    - [ ] Learn about the process format of dataset
    - [ ] Env Prepare
    - [ ] Learn the computing index of MDE
+
+## Task1-Paper's Concept Cards
+
+- [Camera Types](./resources/cards/Camera%20Types.md)
+- [Depth Estimation](./resources/cards/Depth_Estimation.md)
+- [Paper Works](./resources/cards/Paper%20Works.md)
