@@ -13,7 +13,7 @@
   - Captures the incoming photons **independently and persistently**
   - Triggers a **spike** only when the accumulated photons **reach a dispatch threshold**
 - Continues spike stream & high temporal resolution
--  To fit spike data to Transformer, we present an input spike embedding equipped with a spatio-temporal patch partition module to maintain features from both spatial and temporal domains.
+- To fit spike data to Transformer, we present an input spike embedding equipped with a spatio-temporal patch partition module to maintain features from both spatial and temporal domains.
 
 ## Event Camera
 
